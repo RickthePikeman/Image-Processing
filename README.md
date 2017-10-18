@@ -1,2 +1,2 @@
 # Image-Processing
-Made using OpenCL
+Made using OpenGL and intels thread building blocks
